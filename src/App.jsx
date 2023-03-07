@@ -1,8 +1,9 @@
 import React from 'react'
+import Nav from './Props/Nav';
 
 const App = () => {
   return (
-    <div>App</div>
+      <Nav data="Aruna"/>  
   )
 }
 
